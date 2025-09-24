@@ -1,5 +1,4 @@
 CIFAR-10 Image Classification: CNN & Transfer Learning
-
 🚀 Project Overview
 
 A deep learning project to classify images from the CIFAR-10 dataset using:
@@ -62,4 +61,3 @@ Accuracy & loss curves
 Confusion matrices
 
 Sample predictions (green = correct, red = incorrect)
-
